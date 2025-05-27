@@ -121,7 +121,10 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b0f2a4ca-f73e-43ba-8fdd-5203d4dbb7f7)
+
+
+
 
 
 
