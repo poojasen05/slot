@@ -120,7 +120,9 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+
 ![Uploading image.png…]()
+
 
 
 
