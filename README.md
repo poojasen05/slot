@@ -32,7 +32,7 @@ Execute the program using runserver command.
 </head>
 <body>
     <br>
-    <center><h3>SLOT TIME TABLE- SHUBHAVI M (212223040199)</h3></center>
+    <center><h3>SLOT TIME TABLE- pooja s (212223040146)</h3></center>
     <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
     <tr align="center">
         <th bgcolor="yellow">Day/time</th>
